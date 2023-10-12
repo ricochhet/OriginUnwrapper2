@@ -11,4 +11,5 @@ _Requires a valid licensed copy of the program you are trying to patch._
     - `--key="key_string"`
     - `--input="./path/to/file"`
     - `--output="./path/to/file"`
+    - `--version="version_string"`
     - `--dlf-path="./path/to/file"`
